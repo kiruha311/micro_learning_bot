@@ -1,0 +1,38 @@
+# Секреты
+.env
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+wiki_bot.db
+
+# Локальные файлы
+last_send.json
+__pycache__/
+*.pyc
+env/
+venv/
+*.log
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Питон
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Логи
+logs/
+*.log.gz
