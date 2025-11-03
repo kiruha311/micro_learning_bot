@@ -13,7 +13,7 @@
 ## Быстрый старт (для GitHub)
 
 1. **Клонируй репозиторий:**
-git clone https://github.com/kiruha211/micro_learning.git
+git clone https://github.com/kiruha311/micro_learning.git
 cd micro_learning
 **Создай виртуальное окружение (рекомендуется):**
 python -m venv venv
